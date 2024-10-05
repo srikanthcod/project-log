@@ -1,0 +1,3 @@
+mkdir [directory- name]
+cd [directory- name]
+git clone [URL]
